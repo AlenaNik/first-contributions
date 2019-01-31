@@ -11716,6 +11716,7 @@ Bryan Romero
 - [Vitor Campos Ferreira](https://github.com/vcamferreira)
 - [Bimla Khosla](https://github.com/bimlakhosla)
 - [misha](https://github.com/msha833)
+    [Alena](https://github.com/AlenaNik)
 - [Nathan](https://github.com/mutedajar)
 - [Kyle](https://github.com/weliketocode)
 - [Vinicius Min Soo](https://github.com/vinnimin)
